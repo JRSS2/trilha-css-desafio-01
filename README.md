@@ -20,3 +20,6 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+
+
+Desafio de Projeto concluido: criação da folha de estilo - style.css 
