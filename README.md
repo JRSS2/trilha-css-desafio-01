@@ -23,3 +23,5 @@ utilizando o comando `git checkout final` no seu terminal.
 
 
 Desafio de Projeto concluido: criação da folha de estilo - style.css 
+@JRSS2 - Desafio criando Landing Page com HTML + CSS.
+Este projeto foi feito com forma de desafio a construção do arquivo CSS(Folha de Estilo - [ style.css do Projeto])
